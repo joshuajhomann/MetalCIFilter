@@ -6,5 +6,5 @@
 * Creating `extern C` shader for CoreImage
 * Creating a `CIFilter` from a `CIKernel`
 * Reactively loading images and filter parameters from SwiftUI and transforming the inputs into a filtered image
-![preview](preview.png "ImageIOExample")
+![preview](preview.gif "ImageIOExample")
 
